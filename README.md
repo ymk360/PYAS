@@ -1,8 +1,29 @@
 # PYAS (Python 杀毒软件)
 
-主界面
-可以自定义了！！
+🏠主界面
+
+主界面（日志）可以自定义了！！
 ![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-16%20221552.png)
+
+🔍病毒扫描
+
+单个文件扫描（文件扫描）  自定义扫描（路径扫描）  全盘扫描
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-16%20221704.png)
+
+🛠️工具
+
+哈哈，我也不知道该写点什么【dog】
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-16%20221730.png)
+
+🛡️保护
+
+进程保护：= 主防（主动防御）【dog】
+文件保护：监控文件变更
+引导保护：修复引导
+注册表保护：修复注册表项目
+网络保护：监控网络通讯
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-16%20221804.png)
+
 
 ## 安装要求
 
