@@ -1,6 +1,8 @@
 # PYAS (Python 杀毒软件)
 
-![PYAS](https://github.com/87owo/PYAS/assets/85057800/8136aaca-d388-4321-bedb-abc4fcecfa8b)
+主界面
+可以自定义了！！
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-16%20221552.png)
 
 ## 安装要求
 
