@@ -32,23 +32,23 @@
 ### 🛡️ Protection
 
 # 中文简体
-进程保护：= 主防（主动防御）【dog】
-文件保护：监控文件变更
-引导保护：修复引导
-注册表保护：修复注册表项目
-网络保护：监控网络通讯
+#### 进程保护：= 主防（主动防御）【dog】
+#### 文件保护：监控文件变更
+#### 引导保护：修复引导
+#### 注册表保护：修复注册表项目
+#### 网络保护：监控网络通讯
 # 中文繁體
-進程保護：= 主防（主動防禦）【dog】
-文件保護：監控文件變更
-引導保護：修復引導
-註冊表保護：修復註冊表專案
-網路保護：監控網路通訊
+#### 進程保護：= 主防（主動防禦）【dog】
+#### 文件保護：監控文件變更
+#### 引導保護：修復引導
+#### 註冊表保護：修復註冊表專案
+#### 網路保護：監控網路通訊
 # English
-Process Protection: = Primary Defense (Active Defense) [DOG]
-File Protection: Monitor file changes
-Boot Protection: Fix boot protection
-Registry Protection: Repair registry items
-Network Protection: Monitor network communications
+#### Process Protection: = Primary Defense (Active Defense) [DOG]
+#### File Protection: Monitor file changes
+#### Boot Protection: Fix boot protection
+#### Registry Protection: Repair registry items
+#### Network Protection: Monitor network communications
 
 ![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-16%20221804.png)
 
@@ -95,18 +95,17 @@ https://github.com/0sha0/PYAS_Protection
 ## Support system
 
 # 简体中文
-Windows 8.1, 10, 11 (64-bit), 内存 500MB, 存储 200MB 或更高
-其他系统或版本可能会遇到软体功能故障或程序崩溃
+#### Windows 8.1, 10, 11 (64-bit), 内存 500MB, 存储 200MB 或更高
+#### 其他系统或版本可能会遇到软体功能故障或程序崩溃
 # 繁体中文
-Windows 8.1， 10， 11 （64-bit）， 記憶體 500MB， 存儲 200MB 或更高
-其他系統或版本可能會遇到軟體功能故障或程序崩潰
+#### Windows 8.1， 10， 11 （64-bit）， 記憶體 500MB， 存儲 200MB 或更高
+#### 其他系統或版本可能會遇到軟體功能故障或程序崩潰
 # English
-Windows 81, 10, 11 (64-bit), RAM 500MB, storage 200MB or higher Other systems or versions may experience software malfunctions or program crashes
+#### Windows 8.1, 10, 11 (64-bit), RAM 500MB, storage 200MB or higher Other systems or versions may experience software malfunctions or program crashes
 
 ## 特别鸣谢
 ## 特別鳴謝
 ## Special thanks to you
 
-360, Wix, VirusShare, mtkiao129, AV-T Team of LisectGroup
-
-Copyright© 2020~2024 PYAS Security By 87owo
+#### 360, Wix, VirusShare, mtkiao129, AV-T Team of LisectGroup
+#### Copyright© 2020~2024 PYAS Security By 87owo
