@@ -108,4 +108,4 @@ https://github.com/0sha0/PYAS_Protection
 ## Special thanks to you
 
 #### 360, Wix, VirusShare, mtkiao129, AV-T Team of LisectGroup
-#### Copyright© 2020~2024 PYAS Security By 87owo
+#### Copyright© 2024 SYSTEM-WIN-ZDY(bilibili)
