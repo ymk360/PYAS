@@ -57,14 +57,14 @@
 ## 安裝要求
 ## Installation requirements
 
-```
-psutil==5.9.5
-pefile==2023.2.7
-requests==2.31.0
-pyperclip==1.8.2
-pywin32==306
-PyQt5==5.15.9
-```
+
+###### psutil==5.9.5
+###### pefile==2023.2.7
+###### requests==2.31.0
+###### pyperclip==1.8.2
+###### pywin32==306
+###### PyQt5==5.15.9
+
 
 
 
