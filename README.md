@@ -9,7 +9,7 @@
 #### 主界面（日志）可以自定义了！！
 #### 主介面（日誌）可以自定義了！！
 #### The main interface (logs) can be customized!!
-![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README/1.png)
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README.PYAS/1.png)
 
 ### 🔍 病毒扫描
 ### 🔍 病毒掃描
@@ -17,7 +17,7 @@
 #### 单个文件扫描（文件扫描）  自定义扫描（路径扫描）  全盘扫描
 #### 單個文件掃描（文件掃描） 自訂掃描（路徑掃描） 全盤掃描
 #### Single File Scan (File Scan) Custom Scan (Path Scan) Full Disk Scan
-![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README/2.png)
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README.PYAS/2.png)
 
 ### 🛠️工具
 ### 🛠️Tool
@@ -25,7 +25,7 @@
 #### 哈哈，我也不知道该写点什么【dog】
 #### 哈哈，我也不知道該寫點什麼【dog】
 #### Haha, I don't know what to write [dog]
-![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README/3.png)
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README.PYAS/3.png)
 
 ### 🛡️ 保护
 ### 🛡️ 保護
@@ -50,7 +50,7 @@
 #### Registry Protection: Repair registry items
 #### Network Protection: Monitor network communications
 
-![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README/4.png)
+![PYAS](https://github.com/ymk360/PYAS/blob/main/%E5%9B%BE%E7%89%87/README.PYAS/4.png)
 
 
 ## 安装要求
