@@ -101,4 +101,4 @@ https://github.com/0sha0/PYAS_Protection
 ## Special thanks to you
 
 #### 87owo
-#### Copyright© 2024 SYSTEM-WIN-ZDY(bilibili)
+#### Copyright© 2024 SYSTEM-WIN-ZDY(bilibili/GitHub)
