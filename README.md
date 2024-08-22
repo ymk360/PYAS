@@ -68,20 +68,13 @@
 
 
 
-## 官方网页
-## 官方網頁
-## Official webpage
-
-https://pyantivirus.wixsite.com/pyas
-
-https://github.com/87owo/PYAS
 
 ## 开源协议
 ## 開源協定
 ## Open-source protocol
 
 
-https://github.com/87owo/PYAS/blob/main/LICENSE.md
+https://github.com/ymk360/PYAS/blob/main/LICENSE.md
 
 ## 驱动程序
 ## 驅動程式
@@ -107,5 +100,5 @@ https://github.com/0sha0/PYAS_Protection
 ## 特別鳴謝
 ## Special thanks to you
 
-#### 360, Wix, VirusShare, mtkiao129, AV-T Team of LisectGroup
+#### 87owo
 #### Copyright© 2024 SYSTEM-WIN-ZDY(bilibili)
