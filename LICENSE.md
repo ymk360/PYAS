@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 SYSTEM-WIN-ZDY（GitHub/bilibili）
+Copyright (c) 2024 SYSTEM-WIN-ZDY（GitHub/bilibili）nema（姓名）：Yng ** 杨**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
