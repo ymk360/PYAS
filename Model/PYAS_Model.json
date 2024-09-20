@@ -1,15 +1,7 @@
 {
-    "Suffix": [".bat", ".cmd", ".dll", ".exe", ".js", ".ps1", ".sys", ".vbs", ".com"], 
+    "Labels": ["White/Pefile", "White/Script", "Virus/Pefile", "Virus/Script"], 
 
-    "Labels": ["White/BAT-File", "White/CMD-File", "White/DLL-File", "White/EXE-File", 
-               "White/JS-File", "White/PS1-File", "White/SYS-File", "White/VBS-File",
-               "Virus/BAT-File", "Virus/CMD-File", "Virus/DLL-File", "Virus/EXE-File", 
-               "Virus/JS-File", "Virus/PS1-File", "Virus/SYS-File", "Virus/VBS-File"], 
-
-    "Detect": ["Virus/BAT-File", "Virus/CMD-File", "Virus/DLL-File", "Virus/EXE-File", 
-               "Virus/JS-File", "Virus/PS1-File", "Virus/SYS-File", "Virus/VBS-File"],  
-
-    "Models": ["PYAS_Model_A1.onnx", "PYAS_Model_A2.onnx", "PYAS_Model_A3.onnx"], 
+    "Detect": ["Virus/Pefile", "Virus/Script"],  
 
     "Pixels": [224, 224], 
 
